@@ -12,8 +12,8 @@ A case study to solve a business problem using Exploratory Data Analysis (EDA).
 
 ### General Information
 Lending Club is a Consumer Finance Company which specialises in lending loans to customers. The company requires to approve and reject loan applications, to minimize the risk of business loss and financial loss.
-* **Business loss** happens when a loan is rejected to a applicant, who is likely to repay the loan amount.
-* **Financial loss** happens when a loan is approved to a applicant, who is likely not to repay the loan amount.
+* **Business loss** happens when a loan is rejected to a applicant, who is likely to repay the loan amount. This Loan applicant will fall in category **Non-Default**.
+* **Financial loss** happens when a loan is approved to a applicant, who is likely not to repay the loan amount. This Loan applicant will fall in category **Default**.
 
 ##### Business Objective
 Analyze and Perform Exploratory Data Analysis (EDA) on the given data set, identify the driving factors that indicates why the applicant defaulted.
