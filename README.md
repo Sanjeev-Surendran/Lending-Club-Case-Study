@@ -44,17 +44,16 @@ Any business analytics problem can be solved using **CR**oss **I**ndustry **S**t
 Data set was analyzed and prepared for EDA. Univariate and Bivariate analysis were done on data set to understand the relationship between variables and to identify the driving factors in identify why applicants defaulted.
 ##### Recommendation
 **Based on Demography of Applicant**
-* Applicants who previously defaulted will default again.
+* Applicants who previously defaulted will default again – **25.81 %** prediction rate.
+* If Annual Income is more, there is very less chance to default – **20.41 %** prediction rate.
 * Extra scrutiny is required for Applicants belonging States NV and CA, since they have high tendency to default.
-* If Annual Income is more, there is very less chance to default.
 * Extra scrutiny is required if Applicants have employment length less than 1 year or no job history.
-* Higher chance of default if DTI and Interest rate is very high.
 
 **Based on Loan Characteristics**
-* Loans with high interest rate have high tendency to default.
-* High tendency to default, if the loan tenure is 60 months.
+* Loans applied for large amount have high tendency to default – **31.70 %** prediction rate.
+* Loans with high interest rate have high tendency to default – **11.66 %** prediction rate.
+* Extra precaution is required if Loan tenure is 60 months.
 * Extra scrutiny is required if the purpose of loan applied is for small business.
-* More defaulting can be expected when loans applied are high and it is during holiday (winter).
 
 
 ### Software and Library Versions
