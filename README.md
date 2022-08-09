@@ -32,10 +32,11 @@ A data dictionary is provided along with the data set to understand various term
 
 ### Project Contents
 * **Data_Dictionary.xlsx** - Data Dictionary
-* **Lending Club Case Study.ipynb** - Jupyter Notebook
-* **Lending Club Case Study.pdf** - Presentation on Business Solution
+* **Lending Club Case Study.ipynb** - Jupyter Notebook for Lending Club Case Study (Language : Python)
+* **Lending Club Case Study.pdf** - Presentation on Business Solution of Lending Club Case Study
 * **loan.csv** - Data Set
 * **README.md** - Readme file
+* **.ipynb_checkpoints** - A folder with last saved contents of Jupyter Notebook.
 
 
 ### Conclusion
