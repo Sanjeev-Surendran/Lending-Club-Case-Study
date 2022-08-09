@@ -42,7 +42,7 @@ A data dictionary is provided along with the data set to understand various term
 ### Conclusion
 Any business analytics problem can be solved using **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining (CRISP-DM) model.
 Data set was analyzed and prepared for EDA. Univariate and Bivariate analysis were done on data set to understand the relationship between variables and to identify the driving factors in identify why applicants defaulted.
-##### Recommendation
+#### Recommendation
 **Based on Demography of Applicant**
 * Applicants who previously defaulted will default again – **25.81 %** prediction rate.
 * If Annual Income is more, there is very less chance to default – **20.41 %** prediction rate.
